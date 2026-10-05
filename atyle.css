@@ -12,14 +12,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #f1f507;             /* marrom escuro (texto) */
-    background-color: #45c513;  /* creme (fundo) */
+    color: #3B2A1E;             /* marrom escuro (texto) */
+    background-color: #FFF8F0;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
     background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #d68d1f;
+    color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #fae103;
+    color: #FFFFFF;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -55,7 +55,7 @@ blockquote {
     border-left: 4px solid #A0521A;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #dfa866;
+    background-color: #FDEEDC;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
@@ -70,7 +70,7 @@ blockquote {
     border: 1px solid #E0C9A6;
     border-radius: 8px;
     padding: 12px;
-    background-color: #FFFFFF;
+    background-color: #911515;
 }
 
 .card img {
@@ -106,7 +106,7 @@ blockquote {
 
 .tabela-cardapio thead {
     background-color: #A0521A;
-    color: #FFFFFF;
+    color: #59cf0b;
 }
 
 /* ===== Rodapé ===== */
